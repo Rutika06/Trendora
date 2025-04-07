@@ -42,12 +42,6 @@ Razorpay is used to securely process payments during checkout. After confirming 
 README.md
 ```
 
-## 🧪 Testing
-
-- Functional Testing: Jest, Postman
-- Unit Testing: Mocha & Chai (Backend)
-- Manual UI Testing for responsiveness
-
 ## 🛠️ Setup Instructions
 
 1. **Clone the Repository**
