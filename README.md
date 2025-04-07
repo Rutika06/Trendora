@@ -53,8 +53,8 @@ README.md
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/trendora-ecommerce.git
-cd trendora-ecommerce
+git clone https://github.com/yourusername/Trendora.git
+cd Trendora
 ```
 
 2. **Set Up Environment Variables**
@@ -95,14 +95,4 @@ npm start
 ```
 http://localhost:3000
 ```
-
-## 📸 Screenshots
-
-> (Insert UI mockup screenshots here)
-
 ### 👩‍💻 Developed by Rutika Ambadkar
-```
-
----
-
-Let me know if you'd like this converted to a file or tailored further!
